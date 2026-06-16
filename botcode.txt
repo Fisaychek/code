@@ -82,4 +82,4 @@ async def calculate(ctx, *, expression: str):
         )
 
 
-bot.run
+bot.run("MTUwMjMxMDQwNDc3OTY3NTc4OQ.GbDNWG._Xdwd7rR_TDGaKICyV8VA1Rx1YlIlZ9GXrzYUU")
